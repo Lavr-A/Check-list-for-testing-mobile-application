@@ -1,0 +1,39 @@
+	Installation
+1.	Check if user can install Taskade.apk application from Google play
+2.	Check if the user can uninstall the mobile application from the phone
+3.	Check if user can reinstall the mobile application  on the phone
+4.	Check if the user can update the mobile application via Google Play
+	
+	Interruption
+5.	Is the mobile app working correctly when I receive an incoming/outgoing call?
+6.	Collapse the mobile app, make a call, and then return to the app
+7.	Collapse the mobile application, send SMS and then return to the application
+8.	Check that the mobile application works correctly when you receive a message from another application (calendar reminders,
+	task list, etc.).
+9.	Check if the mobile app behaves correctly when the charger is connected
+10.	Check if the mobile app behaves correctly when the charger is disconnected?
+11.	Check if the mobile app behaves correctly when it reports insufficient battery power?
+12.	Check the mobile application when power saving mode is on
+13.	Check whether the mobile app behaves correctly if the device
+	has been put into hibernation?
+14.	Check whether the mobile app behaves correctly if the device
+	is out of sleep mode?
+15.	Check whether the mobile application behaves correctly when unlocking the screen?
+16.	Check if the mobile application works correctly by minimizing it in the background and calling the application by clicking on the application icon
+17.	Check the correctness of the mobile application in the background when the music player is running
+18.	Check the correctness of the mobile application when calling it from the background while the music player is running
+19.	Check the mobile application operation when switching to another background application (Camera, browser, etc.) from the application switch and return to the application from the application switch
+20.	Check the mobile application operation when switching to another background application (Camera, browser, etc.) from the application switch and return to the application by clicking on the application icon
+
+	Connectivity
+21.	 Check whether the mobile application behaves as desired if it is connected to the Internet through Wi-Fi
+22.	Check whether the mobile application behaves as desired if it is connected to the Internet through  3G
+23.	Check whether the mobile application behaves as desired if it is connected to the Internet through   2G
+24.	Check whether the mobile application behaves as desired when the network is unavailable
+25.	"Check to see if the mobile application resumes its operation when it accesses the network again after
+access disruption"
+26.	"Does the mobile app resume its work when
+regains access to the network after
+access disruption"
+27.	Check the correctness of the mobile application when switching between networks (Wi-Fi, 3G, 2G)
+28.	Check the mobile application when Flight Mode is activated 
